@@ -8,5 +8,9 @@ function isAbove18() {
     return true;
 
 }
+function sum(a,b)
+{
+    return a+b;
+}
 
 
